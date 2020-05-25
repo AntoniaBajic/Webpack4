@@ -8,7 +8,7 @@ Webpack 4 boilerplate for React applications with Babel, SASS or SCSS support, c
 npm install 
 ```
 
-### Serve on localhost:9000:
+### Serve on localhost: 9000:
 ```
 npm start
 ```
